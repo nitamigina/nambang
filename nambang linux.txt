@@ -1,0 +1,324 @@
+https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb?hl=en-US
+
+paperspace.com
+
+
+linux
+
+sudo su -
+sudo apt-get update
+apt-get install nano
+apt-get install tmux
+cd /
+
+apt-get install git
+
+
+cd /
+
+tmux
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4/ 
+./xmrig -a ghostrider --url stratum-asia.rplant.xyz:17056 --user RDJRXJWe1MjJtBCGRUW7HAxDBgdYcnTHAA.mozard12
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+
+nano miner raptor
+./cpuminer-sse2 -a gr -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn1
+
+
+avian
+
+cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u wallet
+cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u wallet
+cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u wallet
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4/ 
+./xmrig -a minotaurx -o stratum+tcps://stratum-asia.rplant.xyz:17068 --user RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn1
+
+
+
+sudo su -
+apt-get update
+apt-get install nano
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn5
+
+nano miner-avian-minotaurx.sh
+
+./miner-avian-minotaurx.sh
+
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn11
+
+
+#!/bin/sh
+while [ 1 ]; do
+	./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn9
+	sleep 5
+done
+
+
+
+RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn14
+
+wget https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-linux-0.31.3.tar.xz
+tar -xvf wildrig-multi-linux-0.31.3.tar.xz
+./wildrig-multi -a x16rt  -o stratum+tcp://stratum-asia.rplant.xyz:7067 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardgpu1 --print-full --print-power
+
+
+
+gpu
+stratum+tcp://sg-stratum.coinminerz.com:3374
+
+rtm
+RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz && tar -xvf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn9
+
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn2
+
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+&& tar xf hellminer_cpu_linux.tar.gz &&
+./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RRBCtPSqj7dZjqvheGuiKyAZLCBnuDd4mt.zabi4 -p x --cpu 40
+
+a ghostrider  -o stratum+tcp://stratum-asia.rplant.xyz:7056
+
+
+wget https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-linux-0.31.3.tar.xz
+tar -xvf wildrig-multi-linux-0.31.3.tar.xz
+./wildrig-multi -a x16rt  -o stratum+tcp://stratum-asia.rplant.xyz:7067 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardgpu1 --print-full --print-power
+
+sudo apt update
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn18 --cpu 4
+
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+tar -xvf hellminer_cpu_linux.tar.gz
+
+
+./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u R9fDvquLVkXXyqf2nw1sARqvGbBB5MF1bW.mozardverus1 -p x --cpu 1
+
+
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.9.3/SRBMiner-Multi-0-9-3-Linux.tar.xz
+tar -xvf SRBMiner-Multi-0-9-3-Linux.tar.xz
+
+
+./SRBMiner-MULTI.exe --disable-gpu --algorithm verushash --pool ap.luckpool.net:3956 --wallet R9fDvquLVkXXyqf2nw1sARqvGbBB5MF1bW.mozardverus1 --password x
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a rx -k -o sstratum+ssl://rx.unmineable.com:443 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn100 -p x
+
+cpuminer-sse2 -a gr  -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u wallet
+
+
+
+xmrig.exe -o stratum+ssl://rx.unmineable.com:443 -a rx -k -u COIN:YOUR_ADDRESS.WORKER_NAME -p x
+
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozavn100
+
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-x64.tar.gz
+cd xmrig-6.16.4/
+./xmrig -o rx.unmineable.com:3333 -u RVN:R9sKmuujn8vT63auWRquCChsoXcU9m71Gi.mozard1 -p X
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a minotaurx  -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn1
+
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-x64.tar.gz
+cd xmrig-6.16.4/
+./xmrig -a minotaurx -o stratum+tcps://stratum-asia.rplant.xyz:17068 -u AVN:RTbYX9JPTRv9xn8JSSdWdwt3wnpnexUp9q.mozardavn100 -p X -t4
+
+{
+  "url": "stratum+tcps://asia.flockpool.com:5555",
+  "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
+  "user": "RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1",
+  "pass": "x",
+  "algo": "gr"
+}
+
+
+
+./wildrig-multi --print-full --algo ghostrider --url stratum+tcp://asia.flockpool.com:4444 --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 --pass x
+
+./cpuminer-sse2 -a gr  -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardavn100
+
+./cpuminer-sse2 -a gr -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u 
+
+
+
+
+
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-x64.tar.gz
+cd xmrig-6.16.4/
+./xmrig -a ghostrider --url stratum-asia.rplant.xyz:17056 --tls --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a gr  -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 -p x
+
+cpuminer-sse2 -a gr --url stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a gr --url stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+
+flockpool
+
+wget https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.4.1/cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+tar -xvf cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+./cpuminer-sse2 -a gr --url stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 -no-tune true
+
+
+
+{
+  "url": "stratum+tcps://asia.flockpool.com:5555",
+  "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
+  "user": "RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1",
+  "pass": "x",
+  "algo": "gr"
+}
+
+
+./cpuminer-sse2 -a gr -o stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+a ergo -o stratum+tcp://erg.2miners.com:8888 -u YOUR_WALLET_ADDRESS.RIG_ID
+
+cpuminer-sse2 -a gr  -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u wallet
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4/ 
+./xmrig -a ghostrider --url stratum-asia.rplant.xyz:17056 -tls --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a gr -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+!wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+!tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+!cd /content/xmrig-6.16.4
+!./xmrig -a ghostrider --url stratum-asia.rplant.xyz:17056 -tls --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+wget https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-linux-0.31.3.tar.xz
+tar -xvf wildrig-multi-linux-0.31.3.tar.xz
+cd
+./wildrig-multi -a ghostrider  -o stratum+tcp://stratum-asia.rplant.xyz:7056 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 --opencl-launch auto --print-full --print-power
+
+
+
+./wildrig-multi --print-full --algo ghostrider --url stratum+tcp://asia.flockpool.com:4444 --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 --pass x
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4/ 
+./xmrig -a gr -o sstratum+tcp://asia.flockpool.com:4444 --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yescryptr16 -o stratum+tcps://stratum-asia.rplant.xyz:17055 -u qaSCpTUjKzJz3U77opb46FGHgR31KTSx9w.Qogecoin1 -t 2 & wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.42/lolMiner_v1.42_Lin64.tar.gz && tar xf lolMiner_v1.42_Lin64.tar.gz && cd 1.42 && ./lolMiner --algo BEAM-III --pool stratum+ssl://stratum.eu-west.nicehash.com:33387 --user 3GEmmQjPiJq7kiA6WyWPfzuor9Cv45aNo1.worker
+
+replace wallet address in that last!! its nicehash use ur nicehash mining address
+
+
+cd .ssh
+ssh dir-narrative-gaming-folks.trycloudflare.com
+
+
+wget https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-linux-0.31.3.tar.xz
+tar -xvf wildrig-multi-linux-0.31.3.tar.xz
+./wildrig-multi --print-full --algo ghostrider --url stratum+tcps://asia.flockpool.com:4444 --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm3 --pass x
+
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4
+./xmrig -a ghostrider --url stratum+tcps://asia.flockpool.com:5555 --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm3
+
+
+wget https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.4.1/cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+tar -xvf cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+cd cpuminer-gr-1.2.4.1-args-x86_64_linux
+cd binaries
+./cpuminer-sse2 -a gr -o stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1
+
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.46a/lolMiner_v1.46a_Lin64.tar.gz
+tar -xf lolMiner_v1.46a_Lin64.tar.gz
+cd 1.46a/
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user USDT:TR8oojHxikSjhJ6J816jdpyVrfXx3fZ5ou.mozardusdt14 --ethstratum ETHPROXY
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u USDT:TR8oojHxikSjhJ6J816jdpyVrfXx3fZ5ou.mozardusdt15 -p x 
+
+cd /
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+tar -xvf hellminer_cpu_linux.tar.gz
+cd hellminer_cpu_linux
+./hellminer -a gr -o stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm1 -p x --cpu 40
+
+
+cd /
+sudo apt-get install nano
+cd /
+wget https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.4.1/cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+tar -xvf cpuminer-gr-1.2.4.1-args-x86_64_linux.tar.gz
+cd cpuminer-gr-1.2.4.1-args-x86_64_linux
+nano config.json
+
+
+
+./cpuminer-sse2 -a gr --url stratum+tcps://asia.flockpool.com:5555 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm2 --threads 40
+
+
+
+
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz
+tar -xvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a gr  -o stratum+tcps://stratum-asia.rplant.xyz:17056 -u RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm2
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz
+tar -xvf xmrig-6.16.4-linux-static-x64.tar.gz 
+cd xmrig-6.16.4/ 
+./xmrig -a ghostrider --url stratum-asia.rplant.xyz:17056 --tls --user RPZGyUS359iR8oXvidmTiVehXoJSkfSmCn.mozardrtm3
+
+
+
+
+
+
+
+
